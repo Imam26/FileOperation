@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\bin\Debug\SecondTask.exe.config
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\bin\Debug\SecondTask.exe
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\bin\Debug\SecondTask.pdb
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\obj\Debug\SecondTask.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\obj\Debug\SecondTask.exe
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\obj\Debug\SecondTask.pdb
+C:\Users\Ильяс Сабитов\source\FileOperation\SecondTask\obj\Debug\SecondTask.csprojResolveAssemblyReference.cache

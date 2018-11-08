@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\bin\Debug\FirstTask.exe.config
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\bin\Debug\FirstTask.exe
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\bin\Debug\FirstTask.pdb
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\obj\Debug\FirstTask.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\obj\Debug\FirstTask.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\obj\Debug\FirstTask.exe
+C:\Users\Ильяс Сабитов\source\FileOperation\FirstTask\obj\Debug\FirstTask.pdb
